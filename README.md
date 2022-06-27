@@ -10,7 +10,7 @@ My name is Eman Riziq. I'm a computer science graduated from JUST in 2009,  I'm 
 
 This is ** Bold Text **
 
-This is *** Italic ***
+This is * Italic *
 
 ACP stand for 
 - A for git add
